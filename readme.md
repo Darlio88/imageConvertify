@@ -81,6 +81,6 @@ Follow these steps to get the application up and running on your local machine:
 
    This will launch the frontend application at [http://localhost:5173](http://localhost:5173).
 
-   The backend server will start running at [http://localhost:4000](http://localhost:5000).
+   The backend server will start running at [http://localhost:4000](http://localhost:4000).
 
 7. Open your web browser and visit [http://localhost:5173](http://localhost:5173) to access the application.
